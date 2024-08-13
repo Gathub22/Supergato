@@ -10,9 +10,11 @@ A basic social media Android cat-themed app with chat and themes capabilities. M
 - Account creation and editing.
 - Dark theme.
 
-## Dependencies needed for building
+## Requirements needed for building
 - Android Studio Chipmunk 2021.2.1 ([See archives](https://developer.android.com/studio/archive))
 - Android SDK API 28
+- A [Firebase](https://firebase.google.com) google-services.json in app/
+- Recommended: A Nexus 5 phone or similar 1080x1920 xxhdpi screen
 
 ## Screenshots
 ![Screenshot_20240813_112225](https://github.com/user-attachments/assets/a428e65a-5939-49d3-9023-e4cdc77e3c75)
