@@ -13,7 +13,9 @@ A basic social media Android cat-themed app with chat and themes capabilities. M
 ## Requirements needed for building
 - Android Studio Chipmunk 2021.2.1 ([See archives](https://developer.android.com/studio/archive))
 - Android SDK API 28
-- A [Firebase](https://firebase.google.com) google-services.json in app/
+- A [Firebase](https://firebase.google.com) google-services.json in app/ with access to Realtime Database and Storage
+- A Realtime Database with 4 subnodes: "chats", "gateria", "temas" and "usuarios".
+- A storage directory called "fotos" with 2 subdirectories: "temas" and "usuarios".
 - Recommended: A Nexus 5 phone or similar 1080x1920 xxhdpi screen
 
 ## Screenshots
