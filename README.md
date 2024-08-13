@@ -1,5 +1,5 @@
 # Supergato
-A basic social media Android cat-themed app with chat and themes capabilities. Made for me as a class project.
+A basic social media Android cat-themed app with chat and themes capabilities. Made by me as a class project.
 
 ![Screenshot_20240813_112225](https://github.com/user-attachments/assets/3f3f14d0-92a1-4a6f-8c87-90f4a652f8f2)
 
